@@ -10,7 +10,7 @@ st.set_page_config(
 st.title("📊 Project Cycle & Data Information")
 
 # ================== HARD-CODED DATA PATH ==================
-data_path ='/Users/mohammedmahmood/Desktop/Data projects/Data science/Loan Default Detection Prediction/Data /Loan_Default_Detection_Prediction.csv'
+data_path ='Data /Loan_Default_Detection_Prediction.csv'
 
 # ================== LOAD DATA ==================
 try:
