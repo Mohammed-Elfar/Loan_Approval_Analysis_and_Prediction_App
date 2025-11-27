@@ -1,12 +1,12 @@
-Loan Approval Analysis & Prediction App
+# Loan Approval Analysis & Prediction App
 
-The goal is to predict loan approval based on applicant financial and customer information, deployed the model using Streamlit, allowing users to input new order details and instantly get a prediction on whether the product is likely to be returned.
+- The goal is to predict loan approval based on applicant financial and customer information, deployed the model using Streamlit, allowing users to input new order details and instantly get a prediction on whether the product is likely to be returned.
 I also added an Analytics & Insights page, where users can view all the analysis, insights, and final recommendations extracted from the data.
 
-I chose this dataset because it presents several challenges: it is relatively small with about 615 rows, and contains many missing values and outliers.
+- I chose this dataset because it presents several challenges: it is relatively small with about 615 rows, and contains many missing values and outliers.
 I addressed these issues through data preprocessing and was able to achieve an accuracy of 81%, which is a strong result given the limited size of the data.
 
-Link of the app: Loan Approval Analysis & Prediction App
+Link of the app: https://loan-approval-analysis-and-prediction-app.streamlit.app/
 
 Approach & Steps:
 
