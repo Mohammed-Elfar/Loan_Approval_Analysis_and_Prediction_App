@@ -14,7 +14,7 @@ st.markdown("Use the sidebar to pick a question. Charts are interactive — hove
 # -----------------------
 # Load data (hard-coded path)
 # -----------------------
-DATA_PATH = Path('/Users/mohammedmahmood/Desktop/Data projects/Data science/Loan Default Detection Prediction/Data /Loan_Default_Detection_Prediction.csv')
+DATA_PATH = Path('Data /Loan_Default_Detection_Prediction.csv')
 
 try:
     df = pd.read_csv(DATA_PATH)
