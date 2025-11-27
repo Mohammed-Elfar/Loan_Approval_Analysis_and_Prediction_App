@@ -2,7 +2,7 @@ streamlit
 pandas
 numpy
 plotly
-scikit-learn
+scikit-learn= 1.6.1
 joblib
 imbalanced-learn
 category-encoders
