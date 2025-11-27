@@ -26,7 +26,7 @@ We use a machine learning model trained on real loan data to give you an instant
 
 
 # ================== LOAD MODEL ==================
-model_file = '/Users/mohammedmahmood/Desktop/Data projects/Data science/Loan Default Detection Prediction/model/Final_model_SVM.joblib'
+model_file = 'model/Final_model_SVM.joblib'
 try:
     loaded = joblib.load(model_file)
     model = loaded if not isinstance(loaded, tuple) else loaded[0]
