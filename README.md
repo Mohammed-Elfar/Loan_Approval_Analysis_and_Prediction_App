@@ -1,7 +1,7 @@
 ## Note
 **For Interactive notebook & full analysis (plots + code) are hosted on Kaggle.**  
 🔗 **Kaggle Notebook (interactive):** 
-https://www.kaggle.com/code/mohammadelfar/loan-approval-prediction-84-acc-95-recall/edit
+https://www.kaggle.com/code/mohammadelfar/loan-approval-prediction-84-acc-95-recall
 
 # Loan Approval Analysis & Prediction App
 
