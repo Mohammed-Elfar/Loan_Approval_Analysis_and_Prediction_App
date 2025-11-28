@@ -1,3 +1,8 @@
+## Note
+**For Interactive notebook & full analysis (plots + code) are hosted on Kaggle.**  
+🔗 **Kaggle Notebook (interactive):** 
+https://www.kaggle.com/code/mohammadelfar/loan-approval-prediction-84-acc-95-recall/edit
+
 # Loan Approval Analysis & Prediction App
 
 - The goal is to predict loan approval based on applicant financial and customer information, deployed the model using Streamlit, allowing users to input new order details and instantly get a prediction on whether the product is likely to be returned.
