@@ -26,7 +26,7 @@ k4.metric("Validation",  "ML Pipeline + CV (5-Fold)")
 st.divider()
 
 # ================== LOAD DATA ==================
-data_path = '/Users/mohammedmahmood/Desktop/Data projects/Projects/Data science/Supervised /Loan Default Detection Prediction/2.Data /Loan_Default_Detection_Prediction.csv'
+data_path = "Data /Loan_Default_Detection_Prediction.csv"
 
 try:
     df = pd.read_csv(data_path)
