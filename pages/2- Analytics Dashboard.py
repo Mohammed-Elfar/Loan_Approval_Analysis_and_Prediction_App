@@ -26,7 +26,7 @@ COLOR_MAP    = {"Y": CLR_APPROVED, "N": CLR_REJECTED}
 
 # ── Load data (relative path — works on any machine) ─────
 BASE_DIR  = Path(__file__).parent
-DATA_PATH = BASE_DIR.parent / "data" / '/Users/mohammedmahmood/Desktop/Data projects/Projects/Data science/Supervised /Loan Default Detection Prediction/2.Data /Loan_Default_Detection_Prediction.csv'
+DATA_PATH = BASE_DIR.parent / "data" / "Data /Loan_Default_Detection_Prediction.csv"
 
 @st.cache_data
 def load_data(path: Path) -> pd.DataFrame:
