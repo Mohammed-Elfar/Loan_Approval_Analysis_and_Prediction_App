@@ -15,7 +15,7 @@ st.caption("Fill in the applicant details below to get an instant prediction fro
 st.divider()
 
 # ================== LOAD MODEL ==================
-model_file = '/Users/mohammedmahmood/Desktop/Data projects/Projects/Data science/Supervised /Loan Default Detection Prediction/4.model/Final_model_SVM.joblib'
+model_file = 'model/Final_model_SVM.joblib'
 try:
     loaded = joblib.load(model_file)
     model = loaded if not isinstance(loaded, tuple) else loaded[0]
