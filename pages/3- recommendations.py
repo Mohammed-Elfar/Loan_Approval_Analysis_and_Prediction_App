@@ -10,7 +10,7 @@ st.set_page_config(page_title="Final Recommendations", layout="wide")
 
 # ── Load data (for live numbers) ─────────────────────────
 BASE_DIR  = Path(__file__).parent
-DATA_PATH = BASE_DIR.parent / "data" / '/Users/mohammedmahmood/Desktop/Data projects/Projects/Data science/Supervised /Loan Default Detection Prediction/2.Data /Loan_Default_Detection_Prediction.csv'
+DATA_PATH = BASE_DIR.parent / "data" / 'Data /Loan_Default_Detection_Prediction.csv'
 
 @st.cache_data
 def load_data(path: Path) -> pd.DataFrame:
